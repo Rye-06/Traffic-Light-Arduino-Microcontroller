@@ -1,3 +1,2 @@
 # 🚦 Traffic Light Arduino Microcontroller
-
-# By Rye
+By Rye
