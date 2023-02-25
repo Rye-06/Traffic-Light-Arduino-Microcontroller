@@ -214,12 +214,6 @@ void advancedGreen()
   }
 }
 
-
-
-
-
-
-
 /**
 * pedBtnState()- updates pedestrian button state
 **/
@@ -256,13 +250,6 @@ void walkSound()
   tDelay(500);
   } // plays a sound at the normal rate when the pedestrian light is green and not going to red soon
  
-  
-
-
-
-
-
-
   for (int i = 0; i < 3; i++) {
   tone(buzzerPin, 300);
   digitalWrite(walkPin, LOW);
